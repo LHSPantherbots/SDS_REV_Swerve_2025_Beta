@@ -100,6 +100,10 @@ public final class Constants {
     public static final double kFreeSpeedRpm = 5676;
   }
 
+   public static final class ClimbConstants{
+    public static final int kCLimber = 25; //TODO: name climber to 25
+  }
+
   public static final class LEDs{
     public static final int purple_Red = 148;
     public static final int purple_Green = 0;
